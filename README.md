@@ -1,7 +1,11 @@
-I am new here at Github, I am very noob at coding, but I have some notions on Stata, R, and ArcGIS for economic applied research.
-This repository may contain my improvements on creating maps in Stata for my Ph.D.  I usually improve my code by trial an error.
-This code is motivated by the precariousness of predoctoral researchers existing in Spain (and also some job openings were requesting code repositories to check what I can do in Stata, R, .... Here you are! Hire me :) ). 
-Recently I had a problem when I found that my university had removed the license of ArcGIS for Ph.D. students. 
-Also, after rebooting my PC I couldn't find the cracked version of Stata that I was using, so I found myself without neither ArcGIS nor STATA. After a couple of days decided to buy it (a lot of money). 
-Now that I have a legal Stata license and I cannot use ArcGIS anymore I found some information about creating maps and I am learning that. I you want to find the perfect coding skills go to another repository, I will upload my improvements.
-Making maps in Stata instead of using R or ArcGIS/QGIS? Why not? This code is adapted from the StataViz reposiroty https://github.com/asjadnaqvi 
+Hi there! I'm new to GitHub and honestly, I'm a bit of a noob when it comes to coding. But I do have some experience with Stata, R, and ArcGIS for economic applied research.
+
+This repository will probably include my attempts to improve map-making in Stata for my Ph.D. Most of my coding improvements come from good old trial and error.
+
+Why this repository? Well, apart from the usual struggles of being a predoctoral researcher in Spain (and because some job listings ask for code repositories to show what I can do in Stata, R, etc. — so here it is! Hire me! 😅), I recently ran into a problem when my university removed ArcGIS licenses for Ph.D. students. To make matters worse, after rebooting my PC, I lost access to the cracked version of Stata I was using. So there I was, without ArcGIS or Stata... After a few days of frustration, I bit the bullet and bought Stata (yes, it was expensive).
+
+Now that I’ve got a legal Stata license and no more access to ArcGIS, I started learning how to create maps in Stata. If you’re looking for flawless code, this might not be the place (yet!), but I’ll be uploading my improvements as I go.
+
+Why make maps in Stata when I could use R or ArcGIS/QGIS? Well, why not? This code is inspired by the StataViz repository: https://github.com/asjadnaqvi.
+
+This is my first time uploading code to GitHub, so don’t expect anything fancy just yet. I’ve got tons of code from bigger projects sitting on my laptop, but for now, it feels overwhelming to upload it here. Maybe after a few months of learning GitHub and improving my workflow, I’ll change my mind. 😉
